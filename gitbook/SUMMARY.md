@@ -1,8 +1,14 @@
 # Table of contents
 
-## Reference
+* [Welcome](README.md)
 
-* [Markdown](README.md)
+## Guides
+
+* [Blockchain pairing](guides/blockchain-pairing.md)
+
+## References
+
+* [Markdown](references/markdown.md)
 
 ## Policies
 
