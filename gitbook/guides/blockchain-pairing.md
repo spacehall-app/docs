@@ -32,7 +32,7 @@ For example:
 
 <figure><img src="../.gitbook/assets/blockchain-pairing-pairing-an-address-4.png" alt=""><figcaption><p>Pairing transaction details</p></figcaption></figure>
 
-5. Using your favorite wallet, send a transaction from the blockchain account you're trying to pair with the information you got from point 4.
+5. Using your favorite wallet, send a transaction from the blockchain account you're trying to pair using the information you got from point 4.
 
 {% hint style="danger" %}
 The transaction recipient should be the address of the account you are trying to pair. Do not copy the one in the screenshot.
